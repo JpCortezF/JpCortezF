@@ -10,6 +10,6 @@
 <h2 align="center">Estadísticas de GitHub</h2>
 
 <div align="center" style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanPabloCortez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="Estadísticas generales" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanPabloCortez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Lenguajes más utilizados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JpCortezF&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="Estadísticas generales" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JpCortezF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Lenguajes más utilizados" />
 </div>
