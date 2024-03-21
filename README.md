@@ -1,23 +1,12 @@
 <h1 align="center">¡Hi 👋, I'm Juan Pablo! </h1>
 <h3 align="center">📚 Programming student at UTN, passionate about back-end development.</h3>
-<h4 align="center">My current skills include:</h4>
+<h3 align="center">My current skills include:</h3>
 
-- Advanced SQL handling and data manipulation using .NET.
-- Expanding my skills learning ASP.NET Core Web API to develop modern and scalable web applications. 🚀
-
-
----
-
-<h2 align="center">Connect with me</h2>
-
-<br>
 <div align="center">
-  <a href="mailto:jpcortezzf@gmail.com" title="Email: jpcortezzf@gmail.com">
-    <img src="https://img.icons8.com/fluent/50/000000/gmail.png" alt="Email jpcortezzf" style="margin: 0 10px; border-radius: 10px;" width="50" height="auto">
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/jpcortezz/" title="LinkedIn: jpcortezz">
-    <img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn jpcortezz" style="margin: 0 10px; border-radius: 10px;" width="50" height="auto">
-  </a>
+  <ul>
+    <li>Advanced SQL handling and data manipulation using .NET.</li>
+    <li>Expanding my skills learning ASP.NET Core Web API to develop modern and scalable web applications. 🚀</li>
+  </ul>
 </div>
 
 ---
@@ -47,5 +36,19 @@
   </a>
   <a href="https://www.postman.com/">
     <img src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" alt="API Postman" style="margin: 0 10px; border-radius: 10px;" width="50" height="auto"/>
+  </a>
+</div>
+
+---
+
+<h2 align="center">Connect with me</h2>
+
+<br>
+<div align="center">
+  <a href="mailto:jpcortezzf@gmail.com" title="Email: jpcortezzf@gmail.com">
+    <img src="https://img.icons8.com/fluent/50/000000/gmail.png" alt="Email jpcortezzf" style="margin: 0 10px; border-radius: 10px;" width="50" height="auto">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jpcortezz/" title="LinkedIn: jpcortezz">
+    <img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn jpcortezz" style="margin: 0 10px; border-radius: 10px;" width="50" height="auto">
   </a>
 </div>
