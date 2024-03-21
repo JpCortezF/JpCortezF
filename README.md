@@ -3,7 +3,7 @@
 <h3 align="center">My current skills include:</h3>
 
 <div align="center">
-  <ul>
+  <ul style="list-style: none; padding-left: 0;">
     <li>Advanced SQL handling and data manipulation using .NET.</li>
     <li>Expanding my skills learning ASP.NET Core Web API to develop modern and scalable web applications. 🚀</li>
   </ul>
